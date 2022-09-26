@@ -1,7 +1,8 @@
 <div align="center">
 
 ## 🐥 Jenna 😎
-------
+
+---
 
 <!--
 **dev-ming/dev-ming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +21,12 @@ Here are some ideas to get you started:
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ming&layout=compact&theme=radical)](https://github.com/dev-ming/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev-ming)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
 ### Main
+
 <br/>
 
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black">
@@ -42,6 +45,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### Sub
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -51,8 +55,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-
-
-
 
 </div>
