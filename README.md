@@ -1,8 +1,12 @@
 <div align="center">
 
+<div>
+
 ## 🐥 Jenna 😎
 
 FE dev.
+
+</div>
 
 ---
 
