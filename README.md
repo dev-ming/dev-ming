@@ -58,5 +58,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 
+<img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+
+
 
 </div>
